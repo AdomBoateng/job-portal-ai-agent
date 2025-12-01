@@ -1,2 +1,0 @@
-jd_id,cv_id,category,total_score,sim_embed,skill_coverage,must_have_penalty,llm_consistency,rationale
-jd_001,cv_001,REJECT,0.44,0.0,1.0,0.0,0.6,"The CV mentions Python and FastAPI, which are relevant to the JD. However, it does not mention Machine Learning, which is also a key skill mentioned in the JD."

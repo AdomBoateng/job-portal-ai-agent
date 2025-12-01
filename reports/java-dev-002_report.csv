@@ -1,3 +1,0 @@
-jd_id,cv_id,category,total_score,sim_embed,skill_coverage,must_have_penalty,llm_consistency,rationale
-java-dev-002,cv-alice-003,REJECT,0.4075,0.0,0.9,0.1,0.75,"The CV matches the JD well as it highlights relevant experience in enterprise software development and expertise in Spring Boot and microservices. The candidate also has experience with financial services applications, which aligns with the JD's focus on back-end services."
-java-dev-002,cv-bob-004,REJECT,-0.0875,0.0,0.0,1.0,0.75,"The CV mentions Java, Spring Boot, Hibernate, Oracle, MySQL, Maven, Git, AWS, and Jenkins, which are relevant to the JD. However, it does not explicitly mention 'Java' with a version number of 8+, and there is no information about RESTful APIs."

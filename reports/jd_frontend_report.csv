@@ -1,0 +1,2 @@
+jd_id,cv_id,category,total_score,sim_embed,skill_coverage,must_have_penalty,llm_consistency,rationale
+jd_frontend,cv_bob,REJECT,0.425,0.0,1.0,0.0,0.5,"The CV mentions the required skill of React, but it does not mention the other required skills of HTML and CSS."

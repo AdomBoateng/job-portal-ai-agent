@@ -1,0 +1,2 @@
+jd_id,cv_id,category,total_score,sim_embed,skill_coverage,must_have_penalty,llm_consistency,rationale
+1,10,REJECT,0.15,0.0,0.5,0.5,0.5,"The CV mentions proficiency in Python and JavaScript, which match the JD requirements. However, it does not mention Java or Git, which are also listed as key skills in the JD."

@@ -1,0 +1,1 @@
+2025-11-10 10:49:44 | ERROR    | app.routers.middleware         | complete_jd_in_session:544  | Error completing JD 1 in session 4a84af4b-8919-4801-bd8b-6414f2e7b77c: 'JDCompletionPayload' object has no attribute 'reason'
